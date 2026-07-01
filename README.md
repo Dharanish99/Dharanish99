@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hi, I'm Dharanish 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Dharanish%20👋&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Building%20Practical%20AI%20Systems&descSize=18&descAlignY=55" />
 
-### AI & Full-Stack Developer | Building Practical AI Systems for Real-World Impact
+<br/>
 
-<p>
-I build AI-powered products that solve real problems — from hackathon prototypes to enterprise-grade automation tools.
-My work focuses on AI agents, local LLMs, backend systems, intelligent automation, and full-stack product development.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+AI+Product+Builder;Building+AI+Agents%2C+RAG+Systems+%26+Automation+Tools;Turning+Hackathon+Ideas+Into+Real+Products" />
+
+<br/><br/>
 
 <p>
   <a href="mailto:YOUR_EMAIL">
@@ -24,69 +23,81 @@ My work focuses on AI agents, local LLMs, backend systems, intelligent automatio
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Dharanish99&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I am an AI & Machine Learning student passionate about building practical, production-oriented AI systems.
-I enjoy turning ideas into working products by combining **AI/ML, backend engineering, full-stack development, automation, and system design**.
+I am an **AI & Machine Learning student** focused on building practical, production-oriented AI systems.
+I enjoy combining **AI/ML, backend engineering, full-stack development, automation, and system design** to turn ideas into real working products.
 
-My current focus is on:
+My work focuses on:
 
 * Building AI agents for real-world workflows
 * Developing full-stack AI products using FastAPI, Next.js, and Supabase
-* Working with local LLMs, RAG pipelines, and automation systems
-* Creating hackathon-ready and enterprise-grade AI solutions
-* Designing products that are not only intelligent but also useful, scalable, and user-friendly
+* Creating RAG pipelines, local LLM systems, and intelligent automation tools
+* Designing hackathon-ready and enterprise-grade AI solutions
+* Building products that are intelligent, scalable, useful, and user-friendly
 
 ---
 
 ## 🧠 What I'm Currently Building
 
+<table>
+<tr>
+<td width="33%">
+
 ### 🛡️ VoiceGuard AI
 
-An on-device AI system for detecting scam calls, voice cloning attempts, and social-engineering fraud in real time.
+On-device AI system for detecting scam calls, voice cloning attempts, and social-engineering fraud in real time.
 
 **Highlights**
 
-* Built for the Qualcomm Snapdragon Multiverse Hackathon
+* Snapdragon Multiverse Hackathon project
 * Runs across Snapdragon AI PC, Galaxy S25, and Arduino UNO Q
-* Focuses on real-time scam-call detection and panic interruption
-* Designed for privacy-first, on-device inference
+* Real-time scam-call detection
+* Privacy-first on-device inference
 
-**Tech Focus:** Snapdragon AI, Python, audio intelligence, edge AI, real-time detection
+**Tech:** Snapdragon AI, Python, Edge AI
 
----
+</td>
+<td width="33%">
 
-### ⚙️ Dynamic Compatibility & Configuration Compliance Engine
+### ⚙️ Dynamic Compliance Engine
 
-An enterprise IT compliance engine that converts vendor compatibility documents into structured machine-readable rules.
+Enterprise IT compliance engine that converts vendor compatibility documents into structured machine-readable rules.
 
 **Highlights**
 
-* Parses vendor PDFs and technical documents
-* Extracts structured compliance rules automatically
-* Scores device inventory against extracted rules
-* Explains violations using evidence, rule logic, and knowledge relationships
+* Parses vendor PDFs and technical docs
+* Extracts compliance rules automatically
+* Scores device inventory
+* Explains violations using rule evidence
 
-**Tech Focus:** Python, Docling, Ollama/Gemma, NetworkX, rule extraction, compliance automation
+**Tech:** Python, Docling, Ollama, NetworkX
 
----
+</td>
+<td width="33%">
 
 ### 📡 ClientRadar
 
-An AI-powered local B2B lead intelligence and discovery platform for finding potential business clients.
+AI-powered local B2B lead intelligence platform for finding and ranking potential business clients.
 
 **Highlights**
 
-* Discovers local business leads
-* Generates FitScore-based lead ranking
-* Provides an Ask AI interface for business intelligence
-* Supports source-based discovery and lead enrichment
+* Local business discovery
+* FitScore-based lead ranking
+* Ask AI interface
+* Source-based lead enrichment
 
-**Tech Focus:** FastAPI, Next.js, Supabase, Redis, Ollama, AI search
+**Tech:** FastAPI, Next.js, Supabase, Redis
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,28 +107,28 @@ An AI-powered local B2B lead intelligence and discovery platform for finding pot
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&theme=dark" />
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
-### Backend & Databases
+### Backend & Database
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,supabase,redis&theme=dark" />
 
-### AI & Tools
+### AI, ML & Tools
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![NetworkX](https://img.shields.io/badge/NetworkX-3366CC?style=for-the-badge)
-![Docling](https://img.shields.io/badge/Docling-4B0082?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,git,github,docker,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docling-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NetworkX-3366CC?style=for-the-badge" />
 
 </div>
 
@@ -135,6 +146,12 @@ An AI-powered local B2B lead intelligence and discovery platform for finding pot
 
 ## 🧩 Areas I’m Exploring
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2200&pause=800&color=22C55E&center=true&vCenter=true&width=850&lines=AI+Agents+for+Workflow+Automation;Retrieval-Augmented+Generation+Systems;Local+LLM+Deployment+and+Optimization;Edge+AI+and+On-Device+Intelligence;Full-Stack+SaaS+Product+Development;Real-Time+AI+Systems+for+Safety+and+Security" />
+
+</div>
+
 * AI agents for workflow automation
 * Retrieval-Augmented Generation systems
 * Local LLM deployment and optimization
@@ -149,17 +166,47 @@ An AI-powered local B2B lead intelligence and discovery platform for finding pot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharanish99&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dharanish99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharanish99&theme=tokyonight&hide_border=true" height="170" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanish99&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharanish99&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dharanish99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dharanish99/Dharanish99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+> Note: To enable the snake animation, add the GitHub Action workflow for contribution snake generation in your profile repository.
 
 ---
 
@@ -179,22 +226,26 @@ My approach:
 
 ## 🤝 Let’s Connect
 
-I’m always open to discussing AI products, hackathon ideas, full-stack systems, and real-world AI applications.
+<div align="center">
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Open+to+AI+Projects%2C+Hackathons+and+Collaboration;Let's+Build+Something+Useful+with+AI" />
+
+<br/><br/>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### “Building AI systems that move from idea to impact.”
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2C5364,50:203A43,100:0F2027&section=footer" />
 
 </div>
 
@@ -205,4 +256,6 @@ Before committing:
 3. Replace YOUR_PORTFOLIO_URL with your portfolio link.
 4. Replace YOUR_REPO_LINK with real GitHub repository links.
 5. Pin your 3 best repositories on your GitHub profile.
+6. For the snake animation, create the GitHub Action that generates:
+   output/github-contribution-grid-snake-dark.svg
 -->
